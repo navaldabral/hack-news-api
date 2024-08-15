@@ -1,0 +1,19 @@
+2024-08-15 18:04:18,839 - main - INFO - Received request for top 10 news.
+2024-08-15 18:04:18,839 - main - INFO - Fetching top 10 news from Hacker News.
+2024-08-15 18:04:22,190 - main - INFO - Fetched story: Galois Theory
+2024-08-15 18:04:22,923 - main - INFO - Fetched story: Launch HN: Hamming (YC S24) – Automated Testing for Voice Agents
+2024-08-15 18:04:23,729 - main - INFO - Fetched story: Show HN: High-precision date/time in SQLite
+2024-08-15 18:04:24,442 - main - INFO - Fetched story: YouTube Video to Tabs and Lyrics
+2024-08-15 18:04:25,160 - main - INFO - Fetched story: Kim Dotcom's extradition to the U.S. given green light by New Zealand
+2024-08-15 18:04:25,877 - main - INFO - Fetched story: Gemlite: Towards Building Custom Low-Bit Fused CUDA Kernels
+2024-08-15 18:04:26,501 - main - INFO - Fetched story: Nomad, communicate off-grid mesh, forward secrecy and extreme privacy
+2024-08-15 18:04:27,216 - main - INFO - Fetched story: RankScience (YC W17) is hiring to supercharge SEO for startups
+2024-08-15 18:04:27,913 - main - INFO - Fetched story: Kioxia Demonstrates Raid Offload Scheme for NVMe Drives
+2024-08-15 18:04:28,640 - main - INFO - Fetched story: Open Source FPGA Expansion Card for the Apple II
+2024-08-15 18:04:28,640 - main - INFO - News cached successfully.
+2024-08-15 18:05:19,937 - main - INFO - Received request for top 3 news.
+2024-08-15 18:05:19,937 - main - INFO - Fetching top 3 news from Hacker News.
+2024-08-15 18:05:21,379 - main - INFO - Fetched News: Galois Theory
+2024-08-15 18:05:22,196 - main - INFO - Fetched News: Launch HN: Hamming (YC S24) – Automated Testing for Voice Agents
+2024-08-15 18:05:22,914 - main - INFO - Fetched News: Show HN: High-precision date/time in SQLite
+2024-08-15 18:05:22,915 - main - INFO - News cached successfully.
