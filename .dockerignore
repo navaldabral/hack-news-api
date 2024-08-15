@@ -1,0 +1,5 @@
+env/
+__pycacge__/
+.pytest_cache/
+
+
