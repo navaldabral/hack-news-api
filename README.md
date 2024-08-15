@@ -53,5 +53,8 @@ for the unit test, you run this command `pytest test_main.py`:
 
 <img width="1470" alt="Screenshot 2024-08-15 at 3 15 50 PM" src="https://github.com/user-attachments/assets/4d2dd671-5e59-40cd-9be2-5b4fdb6d07c4">
 
-
 ---
+
+### Docker Setup
+
+
