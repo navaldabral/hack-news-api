@@ -13,9 +13,9 @@
 ### Local System Setup
 1. Clone the repository
 
-    git clone https://github.com/navaldabral/articles.git
+    git clone https://github.com/navaldabral/hackernews-api.git
 
-    cd articles
+    cd hackernews-api-main
 2. Create a virtual environment and activate it
    
    virtualenv venv
@@ -38,11 +38,12 @@
 
 #### Articles
 
-<img width="1470" alt="Screenshot 2024-06-20 at 10 01 32 AM" src="https://github.com/navaldabral/articles/assets/29625991/04952e4e-b443-403a-9786-a82b3b3b10a0">
+<img width="1470" alt="Screenshot 2024-08-15 at 3 13 14 PM" src="https://github.com/user-attachments/assets/cde0a004-37b4-4c8d-8d08-a954334e6a37">
 
-+ GET /api/articles/
 
-    Retrieve a list of articles. Supports filtering by author and keyword, and sorting.
++ GET /top-news/
+
+    Get a list of the top 10 default news items from Hacker News.
 
 ---
 
@@ -50,6 +51,7 @@
 
 for the unit test, you run this command `pytest test_main.py`:
 
-<img width="1470" alt="Screenshot 2024-06-20 at 10 06 17 AM" src="https://github.com/navaldabral/articles/assets/29625991/4b0a0d7d-999d-4100-a350-06bdb3ae6003">
+<img width="1470" alt="Screenshot 2024-08-15 at 3 15 50 PM" src="https://github.com/user-attachments/assets/4d2dd671-5e59-40cd-9be2-5b4fdb6d07c4">
+
 
 ---
