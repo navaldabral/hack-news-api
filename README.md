@@ -7,6 +7,7 @@
 
 + MySQL database ver 8.0.32
 
+---
 ### There are two types of installation: one is on a local system, and the other is using Docker.
 
 ### Local System Setup
