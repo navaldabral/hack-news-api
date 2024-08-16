@@ -10,7 +10,7 @@
 
 ## There are two types of installation: one is on a local system, and the other is using Docker.
 
-### Local System Setup
+### 1) Local System Setup
 1. Clone the repository
 
     git clone https://github.com/navaldabral/hackernews-api.git
@@ -55,7 +55,7 @@ for the unit test, you run this command `pytest test_main.py`:
 
 ---
 
-### Docker Setup
+### 2) Docker Setup
 
 + Pull the Docker Image
 
