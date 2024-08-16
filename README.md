@@ -66,8 +66,16 @@ docker pull navaldabral/hackernews
 + Check the Pulled Image
   
 ```bash
-docker run -d -p 8080:80 navaldabral/hackernews
+docker images
 ```
 
++ Run the Docker Image
 
+```bash
+docker run -d -p 8000:8000 navaldabral/hackernews
+```
+
++ Test the Application
+  
+  Open your web browser and go to http://localhost:8080
 
