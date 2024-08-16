@@ -2,6 +2,7 @@ from fastapi import FastAPI, HTTPException, Query
 import requests
 import cachetools
 import logging
+from fastapi.responses import HTMLResponse
 
 
 
@@ -23,6 +24,18 @@ logging.basicConfig(
 
 logger = logging.getLogger(__name__)
 
+@app.get("/", response_class=HTMLResponse, tags=["Home Page"])
+def read_root():
+    return """
+    <html>
+        <head>
+            <title>Home</title>
+        </head>
+        <body>
+            <p>Visit this URL to access the API documentation: <a href="http://0.0.0.0:8000/docs">http://0.0.0.0:8000/docs</a></p>
+        </body>
+    </html>
+    """
 
 def fetch_top_news(count: int):
     cached_data = cache.get("top_news")

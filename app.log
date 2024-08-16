@@ -30,3 +30,16 @@
 2024-08-16 06:50:49,200 - main - INFO - Fetched News: How does it feel to test a compiler?
 2024-08-16 06:50:49,818 - main - INFO - Fetched News: SREBench Competition
 2024-08-16 06:50:49,819 - main - INFO - News cached successfully.
+2024-08-16 09:51:51,847 - main - INFO - Received request for top 10 news.
+2024-08-16 09:51:51,848 - main - INFO - Fetching top 10 news from Hacker News.
+2024-08-16 09:51:53,630 - main - INFO - Fetched News: CSS Grid Areas
+2024-08-16 09:51:54,244 - main - INFO - Fetched News: PyScript: An open source platform for Python in the browser
+2024-08-16 09:51:54,897 - main - INFO - Fetched News: Total War: Rome II and Creative Assembly – My Statement Ten Years On
+2024-08-16 09:51:55,531 - main - INFO - Fetched News: Pixel smartphones delivered with secret but inactive remote maintenance
+2024-08-16 09:51:56,247 - main - INFO - Fetched News: Reversing the AMD Secure Processor (PSP) – Part 2: Cryptographic Co-Processor
+2024-08-16 09:51:56,965 - main - INFO - Fetched News: One man's quest to restore the first-ever Air Force One
+2024-08-16 09:51:57,608 - main - INFO - Fetched News: Aristotle – How to live a good life
+2024-08-16 09:51:58,294 - main - INFO - Fetched News: RP2350 PicoDVI Preview
+2024-08-16 09:51:58,922 - main - INFO - Fetched News: A practitioner's guide to testing and running GPU clusters
+2024-08-16 09:51:59,614 - main - INFO - Fetched News: Since my brain tumor diagnosis I've lived with a ticking time bomb in my head
+2024-08-16 09:51:59,614 - main - INFO - News cached successfully.
