@@ -57,4 +57,17 @@ for the unit test, you run this command `pytest test_main.py`:
 
 ### Docker Setup
 
++ Pull the Docker Image
+
+```bash
+docker pull navaldabral/hackernews
+```
+
++ Check the Pulled Image
+  
+```bash
+docker run -d -p 8080:80 navaldabral/hackernews
+```
+
+
 
