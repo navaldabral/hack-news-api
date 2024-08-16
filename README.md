@@ -40,6 +40,9 @@
 
 <img width="1470" alt="Screenshot 2024-08-16 at 4 00 20 PM" src="https://github.com/user-attachments/assets/5865b04f-9c8e-423c-9f3f-7a3d6f8920be">
 
+<img width="1470" alt="Screenshot 2024-08-16 at 4 02 31 PM" src="https://github.com/user-attachments/assets/ad23623d-a1e3-4343-9dde-f4a9c455c096">
+
+
 + GET /top-news/
 
     Get a list of the top 10 default news items from Hacker News.
