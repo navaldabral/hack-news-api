@@ -38,9 +38,7 @@
 
 #### Hacker News 
 
-<img width="1470" alt="Screenshot 2024-08-15 at 3 13 14 PM" src="https://github.com/user-attachments/assets/0dc656d6-3f7b-40c4-b2c8-7b3e6b52372e">
-
-
+<img width="1470" alt="Screenshot 2024-08-16 at 4 00 20 PM" src="https://github.com/user-attachments/assets/5865b04f-9c8e-423c-9f3f-7a3d6f8920be">
 
 + GET /top-news/
 
